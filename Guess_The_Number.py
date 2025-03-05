@@ -5,7 +5,7 @@ import math
 def get_range():
     while True:
         try:
-            n = int(input("Choose The Ceilimg Of Your Range: "))
+            n = int(input("Choose The Ceiling Of Your Range: "))
             if n > 1:
                 return n
             else:
