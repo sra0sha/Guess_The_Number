@@ -14,6 +14,7 @@ Welcome to **Guess The Number**, a simple and fun Python game where you try to g
 - Make sure you have Python installed on your system. You can download it from [here](https://www.python.org/downloads/).
 
 ### Steps to Run
+**If you want to run the code in CMD, simply paste the below lines there; else just run the Guess_The_Number.py file in your preferred environment**
 1. **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/sra0sha/Guess_The_Number.git
